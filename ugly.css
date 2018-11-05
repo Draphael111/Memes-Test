@@ -1,0 +1,91 @@
+body{
+margin:0;
+font-family: Arial, sans-serif;
+font-size: 18px;
+color:black;
+line-height:1.6
+
+
+    }
+
+#showcase{
+background-image:url(Images/preview.jpg);
+background-size: cover
+background-position:center;
+    height: 100vh;    
+   display:flex;
+   flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+    
+        
+    
+    
+}
+#showcase h1{
+font-size: 50px;
+line-height: 1.2;
+font-weight: 
+    
+}
+#showcase p{
+
+font-size: 22px;
+}
+
+#showcase .button{
+font-size:18px;
+text-decoration: none;
+color: #FF0000;
+border:#FF0000; 1px solid;
+padding: 10px 20px;
+border-radius:10px 20px;
+margin-top: 20px;
+
+
+
+
+
+}
+
+#showcase .button: hover{
+background: #926239;
+color: white
+
+}
+h2{
+font-size: 40px;
+color: blue
+font
+}
+
+p. pepe1{ 
+font-size: 10px;
+color: aqua
+    
+    
+}
+    p. a{
+font-size: 10px;
+color: aqua
+        
+
+}
+p.dog1{
+font-size: 15px;
+color: darkmagenta;
+}
+p.doge2{
+font-size: 15px;
+color: darkmagenta;    
+}
+
+.doge1{
+    
+align-content: center
+}
+
+}
+}
